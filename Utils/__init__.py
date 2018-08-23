@@ -9,3 +9,4 @@ if sys.version_info < (2, 6):
 
 from Utils import platforms
 from Utils import unittest
+from Utils import timeplus
